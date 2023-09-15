@@ -1,2 +1,2 @@
-# common_project
+# starter_html
 SI 339 class project
