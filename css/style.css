@@ -1,0 +1,60 @@
+body {
+    background-color: blanchedalmond;
+    color: darkblue;
+}
+
+nav {
+    border: 2px solid darkblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Courier, Impact, Arial;
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-size: 30px;
+    font-family: Courier, Impact, Arial;
+    color: darkblue;
+    border-top-right-radius: 30px;
+}
+
+p {
+    line-height: 2;
+}
+
+img {
+    border: 5px solid darkblue;
+    padding: 10px;
+    margin: 20px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 50px;
+    height: 50px;
+}
+
+nav a {
+    background-color: yellow;
+    padding: 5px;
+    margin: 20px;
+}
+
+#skip {
+
+}
+
+.thumbnail {
+    
+}
+
+.page-link-header {
+    border: 2px solid darkblue;
+    padding: 10px;
+}
+
